@@ -1,0 +1,60 @@
+CH000001850501145816                            SITI SARAH NADIAH BINTI SULIMAN         TETUAN ARIFIN & PARTNERS                SBG PERDANA                             NO 39 JLN DINAR GU3/G                   SEKSYEN U3 TMN SUBANG PERDANA           40150 SHAH ALAM SELANGOR                SUBANG                   SELANGOR                 Malaysia                          18032022180420220704202200000012000WADIAHMRS                      Y0122934557     sitisarahnadiah@gmail.com
+AH0000015284-0640-0012-2079000009BR WADIAH                CASH                           RM          4929.81+          549.37            0.00          549.370000016250000000034200+00000000000+000001967000000000000000000000000000002100000001200000000000000         4253.00         3575.85            0.00+000000001026824007318.000000000196700000002177000
+SM01Move from the conventional cheque & cash payment when paying your BANK RAKYAT credit card. You can now conveniently pay your BANK RAKYAT credit card anytime...anywhere using our BANK RAKYAT ATM transfer/ internet banking iRakyat or simply make an IBG or IBFT payment from any local bank's online banking or ATM nationwide.
+TDP5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B0000000000000000PREVIOUS BALANCE                                                     5578.23+
+TDH5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B00000000000000005284-0640-0012-2079 SITI SARAH NADIAH BINTI SU
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1802202220022022PETRON KM11 SG BULOH   SHAH ALAM     MYS                               50.00+
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B2002202221022022BIG PHARMACY BUKIT JEL SELANGOR      MYS                               74.10+
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B2102202222022022GRAB-EC                PETALING JAYA MYS                               18.50+
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1003202210032022FLEXI ACER-SNS - PJ          SE 008/012                               318.83+
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1103202212032022GRAB-EC                PETALING JAYA MYS                               24.60+
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1203202213032022QATAR AIR0002397719292 DOHA          GBR                             3252.44+          590.18+GBP
+TDT5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1303202213032022XPLORER FLIGHTLODGING RBT                                             162.62-
+TDS5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B0000000000000000SUB TOTAL BALANCE                                                    9154.08+
+TDO5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B0103202201032022DUITNOW RPP TRANSACTION                                              1000.00-
+TDO5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1303202213032022DUITNOW RPP TRANSACTION                                              3253.00-
+TDO5284-0640-0012-2079SITI SARAH NADIAH BINTI SU              RM B1803202218032022PROFIT CHARGE                                                          28.73+
+TPBANK RAKYAT CARD CENTRE 008/012                                      3825.97  .00004         1275.32
+CT000000100000001001
+CH000002780111145182                            SHARINA BINTI SHAHRUDIN                 AMBANK (M) BERHAD (CLERK)                                                                                                                                                                                                        NO RECORD                                                  18032022180420220704202200000009000WADIAHMRS                      Y60122712570    rieyness@yahoo.com
+AH0000025284-0640-0011-0983000009BR WADIAH                CASH                           RM          3624.17+          181.20            0.00          181.200000010670000000026900+00000000000+000001336000000000000000000000000000002490000000900000000000000         1800.00         2692.07            0.00+000000001896001007413.000000000133600000001585000
+SM01Move from the conventional cheque & cash payment when paying your BANK RAKYAT credit card. You can now conveniently pay your BANK RAKYAT credit card anytime...anywhere using our BANK RAKYAT ATM transfer/ internet banking iRakyat or simply make an IBG or IBFT payment from any local bank's online banking or ATM nationwide.
+TDP5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B0000000000000000PREVIOUS BALANCE                                                     2713.17+
+TDH5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B00000000000000005284-0640-0011-0983 SHARINA BINTI SHAHRUDIN
+TDT5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B0503202206032022AL-IKHSAN-MPM          MELAKA        MYS                              437.00+
+TDT5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1203202213032022MYDIN-SENAWANG         SEREMBAN      MYS                              236.70+
+TDT5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1203202213032022GOLDFINCH SENAWANG     SEREMBAN      MYS                             1580.00+
+TDT5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1303202214032022BACHANG FAMILY STORE S MELAKA        MYS                              311.72+
+TDT5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1303202214032022GUARDIAN KIPMALL BACHA MELAKA        MYS                              126.65+
+TDS5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B0000000000000000SUB TOTAL BALANCE                                                    5405.24+
+TDO5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B2202202222022022DUITNOW RPP TRANSACTION                                               200.00-
+TDO5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1203202212032022DUITNOW RPP TRANSACTION                                              1600.00-
+TDO5284-0640-0011-0983SHARINA BINTI SHAHRUDIN                 RM B1803202218032022PROFIT CHARGE                                                          18.93+
+CT000000100000000801
+CH000003780110135767                            JAMRI BIN MORNI                         POLIS GERAKAN AM                        POLIS GERAKAN AM                        PEJABAT PENGANGKUTAN 69 KOMANDO                                                                                                                  NO RECORD                                                  18032022180420220704202200000005000WADIAHMR                       Y60195965265    lenmorni78@gmail.com
+AH0000035284-0640-0012-1949030009BR WADIAH                CASH                           RM          5191.21+          259.56          253.77          513.330000003980000000000000+00000000000+000000398000000000000000000000000000002120000000500000000000000            0.00            0.00            0.00+000000002434204007818.000000000039800000000610009
+SM01Move from the conventional cheque & cash payment when paying your BANK RAKYAT credit card. You can now conveniently pay your BANK RAKYAT credit card anytime...anywhere using our BANK RAKYAT ATM transfer/ internet banking iRakyat or simply make an IBG or IBFT payment from any local bank's online banking or ATM nationwide.
+TDP5284-0640-0012-1949JAMRI BIN MORNI                         RM B0000000000000000PREVIOUS BALANCE                                                     5075.43+
+TDH5284-0640-0012-1949JAMRI BIN MORNI                         RM B00000000000000005284-0640-0012-1949 JAMRI BIN MORNI
+TDS5284-0640-0012-1949JAMRI BIN MORNI                         RM B0000000000000000SUB TOTAL BALANCE                                                    5075.43+
+TDO5284-0640-0012-1949JAMRI BIN MORNI                         RM B1503202215032022LATE PMT CHARGE (TA'WIDH)                                              48.87+
+TDO5284-0640-0012-1949JAMRI BIN MORNI                         RM B1803202218032022PROFIT CHARGE                                                          66.91+
+CT000000100000000201
+CH000004900309075232                            ASMA LIYANA BINTI MOHD YAHAYA           BANK RAKYAT - JABA AUDIT TKT 3                                                                                                                                                                                                   NO RECORD                                                  18032022180420220704202200000030000WADIAHMRS                      Y60124116740    asmaliyana.yahaya@gmail.com
+AH0000045284-0640-0009-9905000009BR WADIAH                CASH                           RM          4398.43+          219.92            0.00          219.920000014010000000000000+00000000000+000001401000000000000000000000000000001390000003000000000000000         1600.00            0.00            0.00+000000003106444007113.500000000140100000001540000
+SM01Move from the conventional cheque & cash payment when paying your BANK RAKYAT credit card. You can now conveniently pay your BANK RAKYAT credit card anytime...anywhere using our BANK RAKYAT ATM transfer/ internet banking iRakyat or simply make an IBG or IBFT payment from any local bank's online banking or ATM nationwide.
+TDP5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B0000000000000000PREVIOUS BALANCE                                                     5932.20+
+TDH5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B00000000000000005284-0640-0009-9905 ASMA LIYANA BINTI MOHD YAH
+TDS5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B0000000000000000SUB TOTAL BALANCE                                                    5932.20+
+TDO5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B2102202221022022IB PAYMENT, THANK YOU                                                 600.00-
+TDO5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B2302202223022022IB PAYMENT, THANK YOU                                                1000.00-
+TDO5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B2302202223022022SST-W10180832001794-RWB   00063931700008                               25.00+
+TDO5284-0640-0009-9905ASMA LIYANA BINTI MOHD YAH              RM B1803202218032022PROFIT CHARGE                                                          41.23+
+CT000000100000000401
+CH000005860930526851                            ALEX YECK JU HIENG                      THAI ADVOCATES,  ADVOCATE & SO                                                                                                                                                                                                   NO RECORD                                                  18032022180420220704202200000050000WADIAHMR                       Y60146686968    alexyeck@gmail.com
+AH0000055284-0640-0012-7425000009BR WADIAH                CASH                           RM            50.00-            0.00            0.00            0.000000000000000000000000+00000000000+000000000000000000000007042022000000000000000005000000000000000            0.00            0.00            0.00+000000003233692007218.000000000000000000000000000
+SM01Move from the conventional cheque & cash payment when paying your BANK RAKYAT credit card. You can now conveniently pay your BANK RAKYAT credit card anytime...anywhere using our BANK RAKYAT ATM transfer/ internet banking iRakyat or simply make an IBG or IBFT payment from any local bank's online banking or ATM nationwide.
+TDP5284-0640-0012-7425ALEX YECK JU HIENG                      RM B0000000000000000PREVIOUS BALANCE                                                       50.00-
+TDH5284-0640-0012-7425ALEX YECK JU HIENG                      RM B00000000000000005284-0640-0012-7425 ALEX YECK JU HIENG
+TDS5284-0640-0012-7425ALEX YECK JU HIENG                      RM B0000000000000000SUB TOTAL BALANCE                                                      50.00-
+CT000000100000000001
