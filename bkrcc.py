@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import filedialog
 
 def openFile():
-    names = []asdasda
+    names = []
     title = []
     address_1 = []
     address_2 = []
