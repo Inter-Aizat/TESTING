@@ -170,8 +170,6 @@ with open (r"C:\Users\aizat\Desktop\TESTING\INPUT\ASBI-191022.txt") as file:
         pdf.cell(10)
         pdf.multi_cell(176, 4, txt = f'Kami ingin memaklumkan bahawa pengeluaran penuh untuk akaun pembiayaan anda telah dibuat pada {commencement_date[i]}', align='J')
         pdf.y = top
-
-    # date to be mentioned here 
     
         pdf.ln(1)
         pdf.set_font('Arial','I',10)
