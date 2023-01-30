@@ -4,7 +4,7 @@ import PyPDF2
 from datetime import datetime
 from tqdm import tqdm
 
-start_time = datetime.now()
+start_time = datetime.now().strftime("%H:%M:%S")
 # print(now)
 FMT = "%H:%M:%S"
 # date_time = now.strftime("%m.%d.%Y, %H:%M:%S")
@@ -350,8 +350,8 @@ pdf_writer.write(pdf_out)
 pdf_out.close()
 pdf_in.close()
 
-end_time = datetime.now()
-# date_time = now.strftime("%m.%d.%Y, %H:%M:%S")
-# print(f"End Time: {date_time}")
-print(type(start_time))
-print(datetime.strftime(start_time) - datetime.strftime(end_time))
+end_time = datetime.now().strftime("%H:%M:%S")
+t1 = datetime.strptime(start_time, FMT)
+t2 = datetime.strptime(end_time, FMT)
+time_delta = t2 - t1
+print(time_delta.total_seconds())
