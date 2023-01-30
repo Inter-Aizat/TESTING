@@ -1,13 +1,23 @@
-name = []
+# from fpdf import FPDF
+# import webbrowser
 
-with open(r"E:\WORK\Text\INPUT\C10OCT22.txt", 'r') as file:
-    # print(file.readlines())
-    for count, line in enumerate(file):
-        if "CH00000" in line[0:21]:
-            # name = line[48:88]
-            name.append(line[40:88])
+# pdf = FPDF()
+# pdf.add_page()
+# pdf.set_font('Arial', 'B', 16)
 
-print(name)
-for names in name:
-    names.rsplit()
-    print(names)
+
+# print(pdf.y)
+# print(pdf.x)
+# top = pdf.y
+# offset = pdf.x + 40
+# pdf.multi_cell(0,5,'Hello World!,how are you today',1,'J')
+# pdf.multi_cell(0,10,'This cell needs to beside the other',1)
+
+# pdf.output(r'C:\Users\aizat\Desktop\TESTING\OUTPUT\test.pdf', 'F')
+# webbrowser.open_new(r'C:\Users\aizat\Desktop\TESTING\OUTPUT\test.pdf')
+
+from tqdm import tqdm
+from time import sleep
+
+for i in tqdm(range(10)):
+    sleep(3)
