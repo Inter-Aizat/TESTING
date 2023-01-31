@@ -352,4 +352,4 @@ end_time = datetime.now().strftime("%H:%M:%S")
 t1 = datetime.strptime(start_time, FMT)
 t2 = datetime.strptime(end_time, FMT)
 time_delta = t2 - t1
-print(time_delta.total_seconds())
+print(f'{time_delta.total_seconds()} seconds')
